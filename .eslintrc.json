@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "parserOptions": {
+    "requireConfigFile": false,
+    "babelOptions": {
+      "plugins": ["@babel/plugin-syntax-import-assertions"]
+    }
+  }
+}
